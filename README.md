@@ -1,3 +1,6 @@
+This is my first project based on React.js, it is an weather information app.
+Here is further process to create , run and more info about react.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
